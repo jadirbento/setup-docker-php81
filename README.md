@@ -4,7 +4,7 @@
 ### Passo a passo
 Abra o terminal na maquina WSL 2 e Clone Repositório
 ```sh
-https://github.com/jadirbento/setup-docker-laravel-php81.git nome-do-projeto
+https://github.com/jadirbento/setup-docker-php81.git nome-do-projeto
 ```
 
 Entre no diretório do projeto
